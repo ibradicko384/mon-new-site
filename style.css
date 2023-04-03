@@ -312,7 +312,7 @@ section .align div:hover{
     border-style: groove;
     height: 1500px;
     width: 600px;
-    border-radius: 4px;
+    border-radius: 6px;
     position: relative;
     top: 50px;
     position: relative;

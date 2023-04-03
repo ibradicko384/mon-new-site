@@ -181,7 +181,14 @@ section .align div:hover{
 }
 .pourquoi div{
     box-shadow: 3px 3px 7px 7px #dddcdc;
+    box-shadow: 4px 4px 20px rgb(138, 133, 133);
      
+}
+.pourquoi div:hover{
+    background-color: #f5f5f5;
+}
+.pourquoi2 div:hover{
+    background-color: #f5f5f5;
 }
 .pour{
     background-color: white;
